@@ -35,6 +35,3 @@ build/
 .mvn
 mvnw
 mvnw.cmd
-
-#other
-HELP.md
