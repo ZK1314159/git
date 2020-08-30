@@ -8,10 +8,12 @@ package com.example.git.service;
  */
 public interface Common {
 
-    void stash();
+    void hahha();
 
     void test();
  
-    void newThings();
+    int newThings();
+    
+    void other();
 
 }
