@@ -8,7 +8,7 @@ package com.example.git.service;
  */
 public interface Common {
 
-    void test2();
+    void collision();
  
     void find();
 }
